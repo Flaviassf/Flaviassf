@@ -1,36 +1,39 @@
-# Olá, sou a Flavia!
+# 👋 Olá, sou a Flavia!
 
-Estou em transição de carreira para a área de Qualidade de Software (QA)  
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas  
-Estou aprendendo testes manuais, ferramentas de QA e automação
-
----
-
-# O que você vai encontrar por aqui
-
-- Repositórios com anotações e práticas dos cursos que estou fazendo
-- Projetos simples para praticar testes manuais, Postman, Cypress e mais
-- Organização dos meus aprendizados para mostrar minha evolução
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de Qualidade de Software (QA).  
+Este repositório é dedicado à organização dos meus estudos e práticas, com foco em testes manuais, automação, ferramentas e metodologias ágeis utilizadas por profissionais de QA.
 
 ---
 
-## Cursos em andamento ou concluídos
+## 💼 O que você vai encontrar por aqui
 
-- ✅ Fundamentos do Teste de Software
-- ✅ Análise de Negócios e Levantamento de Requisitos
-- 📍 Gestão Ágil com Scrum (em andamento)
-- 📍 Teste de Software Manual: Do Planejamento à Execução (em andamento)
-- 📍 Dominando Postman (em breve)
-- 📍 Cypress (em breve)
-- 📍 JavaScript para testes (em breve)
-- 📍 Jira + Xray (em breve)
+- Anotações, resumos e atividades práticas realizadas durante cursos técnicos
+- Estrutura de aprendizado organizada por temas e ferramentas
+- Demonstração do meu progresso na área de QA, desde os fundamentos até testes automatizados
 
 ---
 
-##  Objetivo
+## 📘 Formação Técnica em Qualidade de Software
 
-Busco minha primeira oportunidade como QA júnior e estou focada em mostrar meus estudos de forma clara e organizada para empresas que valorizam pessoas em transição de carreira e com vontade de aprender.
+Os conteúdos abaixo estão organizados de forma progressiva, representando minha jornada de aprendizado:
+
+1. [🔍 Fundamentos do Teste de Software](./fundamentos-teste-software/README.md)  
+2. [📋 Análise de Negócios e Levantamento de Requisitos](./analise-negocios-requisitos/README.md)  
+3. [🚀 Gestão Ágil com Scrum](./gestao-agil-scrum/README.md)  
+4. [🧪 Teste de Software Manual](./teste-software-manual/README.md)  
+5. [📌 Jira + Xray: Planejamento de Testes](./jira-xray/README.md)  
+6. [🌐 Testes de API com Postman](./postman-testes-apis/README.md)  
+7. [📜 JavaScript para Testes](./javascript-para-testes/README.md)  
+8. [🤖 Testes Automatizados](./testes-automatizados/README.md)  
+9. [⚙️ Cypress - Testes Automatizados na Nuvem](./cypress/README.md)
 
 ---
 
-📬 Você pode me chamar no [LinkedIn](https://www.linkedin.com/in/flavia-qa/) se quiser bater um papo! 
+## 🎯 Objetivo
+
+Meu foco é conquistar minha primeira oportunidade como QA Júnior, demonstrando meu comprometimento com a aprendizagem contínua, capacidade de organização e entendimento dos principais processos de qualidade no desenvolvimento de software.
+
+---
+
+📬 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/flavia-qa/) para acompanhar minha jornada.
+
