@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, sou a Flavia!
 
-<!--
-**Flaviassf/Flaviassf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição de carreira para a área de Qualidade de Software (QA)  
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas  
+Estou aprendendo testes manuais, ferramentas de QA e automação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# O que você vai encontrar por aqui
+
+- Repositórios com anotações e práticas dos cursos que estou fazendo
+- Projetos simples para praticar testes manuais, Postman, Cypress e mais
+- Organização dos meus aprendizados para mostrar minha evolução
+
+---
+
+## Cursos em andamento ou concluídos
+
+- ✅ Fundamentos do Teste de Software
+- ✅ Análise de Negócios e Levantamento de Requisitos
+- 📍 Gestão Ágil com Scrum (em andamento)
+- 📍 Teste de Software Manual: Do Planejamento à Execução (em andamento)
+- 📍 Dominando Postman (em breve)
+- 📍 Cypress (em breve)
+- 📍 JavaScript para testes (em breve)
+- 📍 Jira + Xray (em breve)
+
+---
+
+##  Objetivo
+
+Busco minha primeira oportunidade como QA júnior e estou focada em mostrar meus estudos de forma clara e organizada para empresas que valorizam pessoas em transição de carreira e com vontade de aprender.
+
+---
+
+📬 Você pode me chamar no [LinkedIn](https://www.linkedin.com/in/flavia-qa/) se quiser bater um papo! 
