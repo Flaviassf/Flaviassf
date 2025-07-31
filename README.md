@@ -18,14 +18,13 @@ Este repositório é dedicado à organização dos meus estudos e práticas, com
 Os conteúdos abaixo estão organizados de forma progressiva, representando minha jornada de aprendizado:
 
 1. [🔍 Fundamentos do Teste de Software](./fundamentos-teste-software/README.md)  
-2. [📋 Análise de Negócios e Levantamento de Requisitos](./analise-negocios-requisitos/README.md)  
-3. [🚀 Gestão Ágil com Scrum](./gestao-agil-scrum/README.md)  
-4. [🧪 Teste de Software Manual](./teste-software-manual/README.md)  
-5. [📌 Jira + Xray: Planejamento de Testes](./jira-xray/README.md)  
-6. [🌐 Testes de API com Postman](./postman-testes-apis/README.md)  
-7. [📜 JavaScript para Testes](./javascript-para-testes/README.md)  
-8. [🤖 Testes Automatizados](./testes-automatizados/README.md)  
-9. [⚙️ Cypress - Testes Automatizados na Nuvem](./cypress/README.md)
+2. [🚀 Gestão Ágil com Scrum](./gestao-agil-scrum/README.md)  
+3. [🧪 Teste de Software Manual](./teste-software-manual/README.md)  
+4. [📌 Jira + Xray: Planejamento de Testes](./jira-xray/README.md)  
+5. [🌐 Testes de API com Postman](./postman-testes-apis/README.md)  
+6. [📜 JavaScript para Testes](./javascript-para-testes/README.md)  
+7. [🤖 Testes Automatizados](./testes-automatizados/README.md)  
+8. [⚙️ Cypress - Testes Automatizados na Nuvem](./cypress/README.md)
 
 ---
 
