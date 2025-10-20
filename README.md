@@ -1,4 +1,4 @@
-# 👋 Olá, sou a Flavia!
+# 👋 Olá, sou a Flávia!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de Qualidade de Software (QA).  
 Este repositório é dedicado à organização dos meus estudos e práticas, com foco em testes manuais, automação, ferramentas e metodologias ágeis utilizadas por profissionais de QA.
