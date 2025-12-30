@@ -1,38 +1,40 @@
-# 👋 Olá, sou a Flávia!
+👋 Olá, sou a Flávia!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de Qualidade de Software (QA).  
-Este repositório é dedicado à organização dos meus estudos e práticas, com foco em testes manuais, automação, ferramentas e metodologias ágeis utilizadas por profissionais de QA.
+Sou estudante de Análise e Desenvolvimento de Sistemas, estagiária no SERPRO, e estou em transição de carreira para a área de Qualidade de Software (QA). Possuo a certificação CTFL (ISTQB) e foco em construir uma base sólida em testes de software, desde os fundamentos até a automação.
 
----
+Este repositório é dedicado à organização dos meus estudos, práticas e experimentos em QA, reunindo conteúdos sobre testes manuais, automação, ferramentas e metodologias ágeis utilizadas no dia a dia profissional.
 
-## 💼 O que você vai encontrar por aqui
+💼 O que você vai encontrar por aqui
 
-- Anotações, resumos e atividades práticas realizadas durante cursos técnicos
-- Estrutura de aprendizado organizada por temas e ferramentas
-- Demonstração do meu progresso na área de QA, desde os fundamentos até testes automatizados
+Anotações, resumos e atividades práticas desenvolvidas ao longo de cursos e estudos técnicos
 
----
+Estrutura de aprendizado organizada por temas, ferramentas e níveis de complexidade
 
-## 📘 Formação Técnica em Qualidade de Software
+Evidências do meu desenvolvimento na área de QA, dos conceitos fundamentais aos testes automatizados
 
-Os conteúdos abaixo estão organizados de forma progressiva, representando minha jornada de aprendizado:
+📘 Formação Técnica em Qualidade de Software
 
-1. [🔍 Fundamentos do Teste de Software](./fundamentos-teste-software/README.md)  
-2. [🚀 Gestão Ágil com Scrum](./gestao-agil-scrum/README.md)  
-3. [🧪 Teste de Software Manual](./teste-software-manual/README.md)  
-4. [📌 Jira + Xray: Planejamento de Testes](./jira-xray/README.md)  
-5. [🌐 Testes de API com Postman](./postman-testes-apis/README.md)  
-6. [📜 JavaScript para Testes](./javascript-para-testes/README.md)  
-7. [🤖 Testes Automatizados](./testes-automatizados/README.md)  
-8. [⚙️ Cypress - Testes Automatizados na Nuvem](./cypress/README.md)
+Os conteúdos estão organizados de forma progressiva, refletindo minha jornada de aprendizado e prática:
 
----
+🔍 Fundamentos do Teste de Software (ISTQB / CTFL)
 
-## 🎯 Objetivo
+🚀 Gestão Ágil com Scrum
 
-Meu foco é conquistar minha primeira oportunidade como QA Júnior, demonstrando meu comprometimento com a aprendizagem contínua, capacidade de organização e entendimento dos principais processos de qualidade no desenvolvimento de software.
+🧪 Testes de Software Manuais
 
----
+📌 Jira + Xray: Planejamento, execução e rastreabilidade de testes
 
-📬 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/flavia-qa/) para acompanhar minha jornada.
+🌐 Testes de API com Postman
+
+📜 JavaScript aplicado a testes
+
+🤖 Testes Automatizados
+
+⚙️ Cypress – Automação de testes end-to-end
+
+🎯 Objetivo
+
+Meu objetivo é consolidar minha atuação em QA e conquistar oportunidades como QA Júnior, aplicando boas práticas de qualidade, pensamento crítico, organização e aprendizado contínuo para contribuir com produtos de software mais confiáveis e eficientes.
+
+📬 Conecte-se comigo no LinkedIn  https://www.linkedin.com/in/flavia-qa/  para acompanhar minha evolução profissional e trocar experiências na área de QA.
 
